@@ -9,7 +9,7 @@ This is front-end for face-swape in Photo and Video using React, Tailwind CSS.
 1. Clone
 
 ```bash 
-git clone https://github.com/SdDev1223/FaceSwap-Vercel
+git clone https://github.com/SoftwareVeteran/FaceSwap-Frontend
 ``` 
 
 2. Install requirements
